@@ -3,7 +3,7 @@ import { Fragment } from "react"
 export function Instructions() {
   return (
     <Fragment>
-      <h1 className="RampTextHeading--l">Approve transactions</h1>
+      <h1 className="RampTextHeading--l">Approve Transactions</h1>
       <div className="RampBreak--l" />
       <p className="RampText">
         Your company uses Ramp as their main financial instrument. You are a manager and you need to
